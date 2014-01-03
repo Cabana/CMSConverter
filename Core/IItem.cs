@@ -33,6 +33,8 @@ namespace CMSConverter.Core
         string[] GetLanguages();
 
         ConverterOptions Options { get; }
+
+        // Helper functions
         string GetOuterXml();
         string GetHostUrl();
     }

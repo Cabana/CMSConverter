@@ -18,6 +18,7 @@ But hopefully people can participate and add new CMS systems to the list.
 Also do not rely on Users and Roles, they are too sitecore specific to be used anywhere else.
 
 For sitecore 6 and 7 copy these file from the /ExtendedSitecoreAPI folder to:
+
 /bin/ExtendedSitecoreAPI.dll 
 /sitecore modules/Shell/ExtendedSitecoreAPI/Security.asmx
 
